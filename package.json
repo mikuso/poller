@@ -1,0 +1,18 @@
+{
+  "name": "@flamescape/poller",
+  "version": "1.0.0",
+  "description": "A bit like setInterval(), but with a slightly different API and slightly different behaviour.",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": {
+    "name": "@flamescape",
+    "url": "https://github.com/mikuso/"
+  },
+  "homepage": "https://github.com/mikuso/poller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikuso/poller.git"
+  },
+  "license": "MIT"
+}
