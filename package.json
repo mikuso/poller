@@ -4,7 +4,7 @@
   "description": "A bit like setInterval(), but with a slightly different API and slightly different behaviour.",
   "main": "src/index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": ["setInterval", "setTimeout", "poller", "timer"],
   "author": {
     "name": "@flamescape",
     "url": "https://github.com/mikuso/"
